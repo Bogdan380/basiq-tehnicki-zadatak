@@ -1,0 +1,22 @@
+.d-flex {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+}
+
+#mr-small {
+  margin-right: 1rem;
+}
+
+.center {
+  text-align: center;
+}
+
+.fs {
+  font-size: 1.2rem;
+}
+
+.height {
+  align-self: center;
+  height: 2.6rem;
+}
